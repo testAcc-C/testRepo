@@ -6,3 +6,6 @@ this is a line from RStudio
 
 \n
 yet another line from RStudio
+
+what if i dont' stage?
+obviously i had to stage
